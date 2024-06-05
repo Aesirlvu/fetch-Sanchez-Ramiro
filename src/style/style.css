@@ -1,0 +1,36 @@
+body {
+  margin: 20px;
+  padding: 30px;
+  background: linear-gradient(
+    to top,
+    rgba(255, 142, 77, 0.75),
+    rgba(235, 182, 91, 0.75)
+  );
+}
+main img {
+  border-radius: 20px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(150, 110, 110);
+
+}
+hr{
+    border: 2px solid rgb(150, 110, 110);
+}
+p{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(150, 110, 110);
+}
+#contenedor img {
+  border: 10px solid rgb(150, 110, 110);
+  width: 100%;
+  object-fit: cover;
+}
+#contenedor_2 img {
+  border: 10px solid rgb(150, 110, 110);
+  width: 100%;
+  object-fit: cover;
+}
